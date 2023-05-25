@@ -1,2 +1,0 @@
-# practicerepo
- learning git fundamentals
